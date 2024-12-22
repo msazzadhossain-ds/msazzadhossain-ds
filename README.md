@@ -9,10 +9,15 @@ As a Computer Science and Engineering graduate with 5+ years of experience in da
 
 ## Technical Skills
 ✅ Advanced Excel
+
 ✅ Power BI
+
 ✅ Tableau
+
 ✅ SQL
+
 ✅ Python
+
 ✅ MS Office Suite 
 
 ## Let's Connect!
